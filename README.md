@@ -9,7 +9,7 @@ Conducted thorough analysis to understand the distribution of crime rating, Purc
 Implemented as a baseline model to establish a straightforward relationship between Purchase Power and Crime Rating, providing initial insights into the data's linear patterns.
 
 ### Statistical Analysis:
-- Utilized statistical measures to evaluate model performance, including R-squared, Mean Squared Error (MSE) to assess the models' predictive capabilities.
+Utilized statistical measures to evaluate model performance, including R-squared, Mean Squared Error (MSE) to assess the models' predictive capabilities.
 
 ### Data Visualization: 
 Created scatter plots and regression lines to visually represent the models' predictions compared to actual data.
