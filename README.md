@@ -1,5 +1,4 @@
 # Predictive Urban Quality ML analysis for Movehub Rating
-
 Skills Demonstrated:
 
 ### Data Preprocessing & Exploration:
